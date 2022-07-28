@@ -20,6 +20,6 @@
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=maroongold&hide=issues&line_height=30" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu&theme=maroongold" width="400px">
 
-<br>
+<p align="center"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dainiu&layout=compact&theme=maroongold&hide=html,tex,jupyter%20notebook"></p>
 
- <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dainiu&layout=compact&theme=maroongold&hide=html,tex,jupyter%20notebook">
+ 
