@@ -18,4 +18,4 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Github Stats</h2></summary>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=30" width="400px"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu" width="400px">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=30" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu" width="400px">
