@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <a href="https://super-dainiu.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Daniel</h1>
-<h4 align="center">I'm a senior undergraduate student at Fudan University and a 20-year old data science enthusiast. Passionate to contribute open-source projects.</h4>
+<h3 align="center">I'm a senior undergraduate student at Fudan University and a 20-year old data science enthusiast. Passionate to contribute open-source projects.</h3>
 
 ---
 
@@ -17,3 +17,6 @@
 ---
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Github Stats</h2></summary>
+
+<img src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu">
