@@ -5,9 +5,9 @@
 
 ---
 
-- 🔭 I’m currently working on <a href="https://colossalai.org/" style="color: darkblue">Colossal-AI</a>.
+- 🔭 I’m currently working on <strong><a href="https://colossalai.org/" style="color: darkblue">Colossal-AI</a></strong>.
 
-- 🌱 I’m currently learning about Distributed Systems.
+- 🌱 I’m currently learning about **Distributed Systems**.
 
 - 📫 How to reach me **19307110036 [at] fudan [at] edu [at] cn**
 
