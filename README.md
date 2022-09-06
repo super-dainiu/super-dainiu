@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <a href="https://super-dainiu.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Daniel</h1>
-<h3 align="center">I'm a senior undergraduate student at Fudan University and a 20-year old data science enthusiast. Passionate to contribute open-source projects.</h3>
+<h3 align="center">I'm a senior undergraduate student and a 20-year old data science enthusiast. Passionate to contribute open-source projects.</h3>
 
 ---
 
