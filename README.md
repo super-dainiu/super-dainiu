@@ -22,5 +22,7 @@
 
 <p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dainiu&layout=compact&theme=maroongold&hide=html,tex,jupyter%20notebook"><img align="center" width="400px" src="https://github.com/super-dainiu/super-dainiu/blob/output/github-contribution-grid-snake.svg"></p>
 
- 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Waka Stats</h2>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
