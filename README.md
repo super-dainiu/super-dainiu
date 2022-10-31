@@ -21,6 +21,7 @@
 <p align="center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=maroongold&hide=issues&line_height=30" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu&theme=maroongold" width="400px"></p>
 
 <p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dainiu&layout=compact&theme=maroongold&hide=html,tex,jupyter%20notebook"><img align="center" width="400px" src="https://github.com/super-dainiu/super-dainiu/blob/output/github-contribution-grid-snake.svg"></p>
+
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue)
