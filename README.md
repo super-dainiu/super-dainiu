@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <strong><a href="https://colossalai.org/" style="color: darkblue">Colossal-AI</a></strong>.
 
-- 🌱 I’m currently learning about **Distributed and Parallel Systems**.
+- 🌱 I’m currently learning about **Compilers**.
 
 - 📫 How to reach me **19307110036 [at] fudan [dot] edu [dot] cn**
 
