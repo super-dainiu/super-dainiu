@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on <strong><a href="https://colossalai.org/" style="color: darkblue">Colossal-AI</a></strong>.
+- 🔭 I’m currently working on <strong><a href="https://github.com/hpcaitech/ColossalAI" style="color: darkblue">Colossal-AI</a></strong>.
 
 - 🌱 I’m currently learning about **Compilers**.
 
