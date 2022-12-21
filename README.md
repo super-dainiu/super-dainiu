@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning about **Compilers**.
 
-- 📫 How to reach me **19307110036 [at] fudan [dot] edu [dot] cn**
-
 - 😄 Pronouns: He/His.
 
 
