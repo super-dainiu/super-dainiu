@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <a href="https://super-dainiu.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Daniel</h1>
+<h1 align="center">I'm Daniel</h1>
 <i> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
 
 ---
