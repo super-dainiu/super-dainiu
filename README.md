@@ -24,7 +24,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Waka Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
@@ -46,5 +46,5 @@ Linux                    12 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 25/12/2022 15:52:21 UTC
+ Last Updated on 25/12/2022 16:01:36 UTC
 <!--END_SECTION:waka-->
