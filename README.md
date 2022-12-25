@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <a href="https://super-dainiu.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Daniel</h1>
-<h3 align="center">Matthew 6:34 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.</h3>
+<h4 align="center">Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. -Matthew 6:34</h4>
 
 ---
 
