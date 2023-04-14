@@ -1,6 +1,6 @@
 
 
-<h1 align="center">I'm Daniel Shao</h1>
+<h1 align="center">Daniel Shao</h1>
 <i> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
 
 ---
