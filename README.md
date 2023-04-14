@@ -1,9 +1,6 @@
 
 
 <h1 align="center">Daniel Shao</h1>
-<i> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
-
----
 
 - 🐒 I’m currently working on <strong><a href="https://github.com/microsoft/nni" style="color: darkblue">NNI</a></strong>.
 
@@ -12,6 +9,10 @@
 - 😇 Pronouns: He/His.
 
 - 🦧 I support: Manchester United.
+
+---
+
+<i> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
 
 ---
 
