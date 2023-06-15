@@ -25,7 +25,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Waka Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -35,17 +35,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-R                        3 hrs               ████████████████████░░░░░   79.30 % 
-Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+R                        3 hrs 7 mins        ████████████████████░░░░░   79.93 % 
+Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2023 16:23:28 UTC
+ Last Updated on 15/06/2023 16:36:20 UTC
 <!--END_SECTION:waka-->
