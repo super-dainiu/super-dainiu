@@ -35,16 +35,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-R                        14 mins             █████████████████████████   98.75 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/06/2023 16:15:38 UTC
+ Last Updated on 25/06/2023 16:36:32 UTC
 <!--END_SECTION:waka-->
