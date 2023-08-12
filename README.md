@@ -25,7 +25,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Waka Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -49,5 +49,5 @@ Mac                      4 hrs 13 mins       ███████████�
 ```
 
 
- Last Updated on 12/08/2023 05:09:15 UTC
+ Last Updated on 12/08/2023 05:22:51 UTC
 <!--END_SECTION:waka-->
