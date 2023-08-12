@@ -2,9 +2,9 @@
 
 <h1 align="center">Daniel Shao</h1>
 
-- 🐒 I’m currently working on <strong><a href="https://github.com/microsoft/nni" style="color: darkblue">NNI</a></strong>.
+- 🐒 I’m currently working on <strong><a href="https://huggingface.co/ctheodoris/Geneformer" style="color: darkblue">Geneformer</a></strong>.
 
-- 🥹 I’m currently learning about **EfficientML**.
+- 🥹 I’m currently learning about **scRNA-seq**.
 
 - 😇 Pronouns: He/His.
 
