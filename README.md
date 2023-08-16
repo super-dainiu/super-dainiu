@@ -4,7 +4,7 @@
 
 - 🐒 I’m currently working on <strong><a href="https://huggingface.co/ctheodoris/Geneformer" style="color: darkblue">Geneformer</a></strong>.
 
-- 🥹 I’m currently learning about **scRNA-seq**.
+- 🥹 I’m currently learning about **scRNA-seq** and **binance**.
 
 - 😇 Pronouns: He/His.
 
