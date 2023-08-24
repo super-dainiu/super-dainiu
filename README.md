@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,5 +50,5 @@ Mac                      3 hrs 1 min         █████████░░�
 ```
 
 
- Last Updated on 24/08/2023 01:32:30 UTC
+ Last Updated on 24/08/2023 02:02:56 UTC
 <!--END_SECTION:waka-->
