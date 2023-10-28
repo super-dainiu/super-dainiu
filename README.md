@@ -2,9 +2,9 @@
 
 <h1 align="center">Daniel Shao</h1>
 
-- 🐒 I’m currently working on <strong><a href="https://huggingface.co/ctheodoris/Geneformer" style="color: darkblue">Geneformer</a></strong>.
+- 🐒 I’m currently working on BioLLM.
 
-- 🥹 I’m currently learning about **scRNA-seq** and **binance**.
+- 🥹 I’m currently learning about **LLM Agent** and **okx**.
 
 - 😇 Pronouns: He/His.
 
