@@ -4,7 +4,7 @@
 
 - 🐒 I’m currently working on **BioLLM**.
 
-- 🥹 I’m currently learning about **LLM Agent** and **okx**.
+- 🥹 I’m currently learning about **okx**.
 
 - 😇 Pronouns: He/His.
 
