@@ -2,7 +2,7 @@
 
 <h1 align="center">Daniel Shao</h1>
 
-- 🐒 I’m currently working on **BioLLM**.
+- 🐒 I’m currently working on **MolAgent**.
 
 - 🥹 I’m currently learning about **okx**.
 
