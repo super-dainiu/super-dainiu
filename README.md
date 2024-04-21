@@ -2,9 +2,9 @@
 
 <h1 align="center">Daniel Shao</h1>
 
-- 🐒 I’m currently working on **MolAgent**.
+- 🐒 I’m currently working on **Mol-LLaMA**.
 
-- 🥹 I’m currently learning about **okx**.
+- 🥹 I’m currently learning about **upbit**.
 
 - 😇 Pronouns: He/His.
 
