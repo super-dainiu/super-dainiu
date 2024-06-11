@@ -2,7 +2,7 @@
 
 <h1 align="center">Daniel Shao</h1>
 
-- 🐒 I’m currently working on **Mol-LLaMA**.
+- 🐒 I’m currently working on **Instruct-RXN** and **ML-Bench**.
 
 - 🥹 I’m currently learning about **upbit**.
 
