@@ -27,17 +27,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 October 2022 - To: 02 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 2,168 hrs 5 mins
+Total Time: 24 hrs 18 mins
 
-Python             825 hrs 16 mins █████████▓░░░░░░░░░░░░░░░   38.06 %
-Bash               100 hrs 15 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-JSON               87 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Assembly           17 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Text               13 hrs 37 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Markdown           13 hrs 13 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-GDScript3          9 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python       2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Text         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
