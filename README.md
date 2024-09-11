@@ -27,17 +27,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Total Time: 25 hrs 47 mins
+Total Time: 23 hrs 37 mins
 
-Python       5 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Markdown     1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-SSH Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python       3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Markdown     2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+SSH Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Groff        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
