@@ -4,7 +4,7 @@
 
 - 🐒 I’m currently working on **[PRESTO](https://github.com/IDEA-XL/PRESTO)** and **[ML-Bench](https://github.com/gersteinlab/ML-bench)**.
 
-- 🥹 I’m currently learning about **upbit**.
+- 🥹 I’m currently learning about **AI Trading**.
 
 - 😇 Pronouns: He/His.
 
