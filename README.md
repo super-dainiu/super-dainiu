@@ -10,9 +10,11 @@
 
 - 🦧 I support: Manchester United.
 
+- 🐶 I study at: Yale University.
+
 ---
 
-<i> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
+<i> Therefore, do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. </i> -Matthew 6:34
 
 ---
 
