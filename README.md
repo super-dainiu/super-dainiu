@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Total Time: 22 hrs 45 mins
+Total Time: 15 hrs 52 mins
 
-Python       4 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Bash         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       4 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Bash         1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+SSH Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
