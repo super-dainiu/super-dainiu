@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-Total Time: 8 hrs 47 mins
+Total Time: 11 hrs 57 mins
 
-Python       3 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
-Bash         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python             6 hrs 48 mins   ██████████████▒░░░░░░░░░░   56.91 %
+SSH Config         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+CSV                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shell              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
