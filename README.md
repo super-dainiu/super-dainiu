@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Daniel Shao</h1>
+<h1 align="center">Yanjun Shao</h1>
 
 - 🐒 I’m currently working on **[PRESTO](https://github.com/IDEA-XL/PRESTO)** and **[ML-Bench](https://github.com/gersteinlab/ML-bench)**.
 
