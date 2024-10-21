@@ -4,13 +4,13 @@
 
 - 🐒 I’m currently working on **[MedAgents](https://github.com/gersteinlab/MedAgents)**.
 
-- 🦧 I’m currently learning about **AI Trading**.
+- 🦧 I’m currently learning about **AI Trading** and **Health Informatics**.
 
 - 🦍 Pronouns: He/His.
 
-- 👹 I support: Manchester United.
+- 👹 I support Manchester United.
 
-- 🐶 I study at: Yale University.
+- 🐶 I study at Yale University.
 
 ---
 
