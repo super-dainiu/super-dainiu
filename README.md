@@ -4,7 +4,7 @@
 
 - 🐒 I’m currently working on **[MedAgents](https://github.com/gersteinlab/MedAgents)**.
 
-- 🦧 I’m currently learning about **AI Trading** and **Health Informatics**.
+- 🦧 I’m currently learning about **AI Trading** and **TCR-Epitope Binding**.
 
 - 🦍 Pronouns: He/His.
 
