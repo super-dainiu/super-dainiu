@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
-Total Time: 27 hrs 41 mins
+Total Time: 27 hrs 39 mins
 
-Python             8 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
+Python             8 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 %
 TeX                1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 HTML               43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Text               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
