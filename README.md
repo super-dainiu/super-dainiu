@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 27 hrs 39 mins
+Total Time: 21 hrs 55 mins
 
-Python             8 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-TeX                1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-HTML               43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Text               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSV                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Markdown           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Python             6 hrs           ███████░░░░░░░░░░░░░░░░░░   27.37 %
+TeX                1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+CSV                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Text               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Jupyter Notebook   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+SSH Config         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
