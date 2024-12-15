@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Total Time: 35 hrs 12 mins
+Total Time: 36 hrs 58 mins
 
-Python             4 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-TeX                3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Markdown           1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-BibTeX             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-HTML               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Jupyter Notebook   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TeX                4 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Python             3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Markdown           2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+BibTeX             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+HTML               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Jupyter Notebook   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
