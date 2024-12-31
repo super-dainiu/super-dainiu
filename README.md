@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
-Total Time: 2 hrs 58 mins
+Total Time: 3 hrs 56 mins
 
-Python   53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python   1 hr 34 mins    ██████████░░░░░░░░░░░░░░░   40.13 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
