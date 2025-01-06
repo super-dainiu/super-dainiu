@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 15 hrs 37 mins
+Total Time: 12 hrs 43 mins
 
-Python             4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-SSH Config         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Jupyter Notebook   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Markdown           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python             3 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+SSH Config         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Jupyter Notebook   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
