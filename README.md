@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 19 hrs
+Total Time: 26 hrs 10 mins
 
-Python             6 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   36.37 %
-SSH Config         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Jupyter Notebook   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-YAML               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-LaTeX              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python             9 hrs 53 mins   █████████▒░░░░░░░░░░░░░░░   37.77 %
+Jupyter Notebook   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+SSH Config         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Markdown           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+YAML               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+LaTeX              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
