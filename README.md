@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-Total Time: 36 hrs 8 mins
+Total Time: 32 hrs 54 mins
 
-Python             5 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-CSV                32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-TeX                27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Jupyter Notebook   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       5 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+CSV          32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TeX          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
