@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Total Time: 39 hrs 54 mins
+Total Time: 45 hrs 47 mins
 
-Python             7 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Bash               2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-JSON               50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-YAML               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Markdown           28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-SSH Config         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-CSV                12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python             12 hrs 23 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+Bash               2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+JSON               49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+YAML               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Markdown           31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+CSV                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+SSH Config         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
