@@ -29,15 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
-Total Time: 8 hrs 57 mins
+Total Time: 6 hrs 9 mins
 
-Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-SSH Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
