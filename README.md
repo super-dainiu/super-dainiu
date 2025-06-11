@@ -29,16 +29,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Total Time: 21 hrs 22 mins
+Total Time: 17 hrs 11 mins
 
-Python             2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-SSH Config         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python             2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+SSH Config         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
