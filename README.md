@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 20 hrs 8 mins
+Total Time: 24 hrs 27 mins
 
-Python             7 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.05 %
-Bash               58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Markdown           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-SSH Config         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-INI                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Git Config         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-JSON               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python             9 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
+Bash               1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+SSH Config         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+INI                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Git Config         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
