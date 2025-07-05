@@ -2,7 +2,7 @@
 
 <h1 align="center">Yanjun Shao</h1>
 
-- 🐒 I’m currently working on **[MedAgents](https://github.com/gersteinlab/MedAgents)**.
+- 🐒 I’m currently working on **[AI Digital Organism](https://github.com/genbio-ai/AIDO)**.
 
 - 🦧 I’m currently learning about **AI Trading**.
 
