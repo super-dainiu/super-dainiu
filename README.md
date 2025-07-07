@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
-Total Time: 19 hrs 34 mins
+Total Time: 18 hrs 16 mins
 
-Python             3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
-Bash               1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Image (svg)        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-JSON               1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Jupyter Notebook   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-CSV                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-YAML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python             3 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+Bash               1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Image (svg)        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JSON               1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Jupyter Notebook   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+CSV                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+YAML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
