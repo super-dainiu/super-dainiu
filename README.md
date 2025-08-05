@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 60 hrs 38 mins
+Total Time: 56 hrs 12 mins
 
-Python       25 hrs 14 mins  ██████████▒░░░░░░░░░░░░░░   41.62 %
-Bash         5 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-JSON         3 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-CSV          51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-YAML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Makefile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python       26 hrs 15 mins  ███████████▓░░░░░░░░░░░░░   46.72 %
+JSON         2 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Bash         2 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+CSV          1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+YAML         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Makefile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
