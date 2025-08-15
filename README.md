@@ -29,17 +29,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 31 hrs 57 mins
+Total Time: 32 hrs 34 mins
 
-Python       10 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   32.11 %
-YAML         1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-CSV          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Bash         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       9 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
+YAML         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+CSV          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
