@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 26 hrs 10 mins
+Total Time: 28 hrs 29 mins
 
-Python             2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-YAML               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Jupyter Notebook   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Git Config         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-SSH Config         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python             2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+YAML               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Jupyter Notebook   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Git Config         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+SSH Config         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
