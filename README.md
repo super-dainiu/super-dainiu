@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
-Total Time: 28 hrs 29 mins
+Total Time: 29 hrs
 
-Python             2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-YAML               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Jupyter Notebook   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python             2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Jupyter Notebook   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 Git Config         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 SSH Config         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
