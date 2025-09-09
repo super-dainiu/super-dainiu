@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Total Time: 33 hrs 53 mins
+Total Time: 35 hrs 8 mins
 
-Python             2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Jupyter Notebook   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Git Config         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-SSH Config         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Jupyter Notebook   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+SSH Config         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TOML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
