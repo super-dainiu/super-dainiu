@@ -29,16 +29,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 50 hrs 18 mins
+Total Time: 50 hrs 51 mins
 
-Python             4 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-TeX                2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Python             4 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+TeX                2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash               15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Image (svg)        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-SSH Config         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Jupyter Notebook   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Bash               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+SSH Config         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 BibTeX             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
