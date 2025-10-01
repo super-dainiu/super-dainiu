@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 September 2025 - To: 28 September 2025
+From: 22 September 2025 - To: 29 September 2025
 
-Total Time: 50 hrs 51 mins
+Total Time: 48 hrs 27 mins
 
-Python             4 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-TeX                2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Bash               15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Image (svg)        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Jupyter Notebook   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-SSH Config         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-BibTeX             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python             3 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+TeX                1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Bash               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Image (svg)        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Jupyter Notebook   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SSH Config         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
