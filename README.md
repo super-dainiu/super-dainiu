@@ -29,16 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 27 hrs 7 mins
+Total Time: 20 hrs 16 mins
 
-Python             1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Jupyter Notebook   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Groff              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Image (svg)        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python        1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Groff         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+JSON          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
