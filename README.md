@@ -29,13 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 14 hrs 37 mins
+Total Time: 10 hrs 55 mins
 
-Python        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Groff         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Groff         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
