@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 October 2025 - To: 02 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-Total Time: 43 hrs 21 mins
+Total Time: 42 hrs 18 mins
 
-Python       4 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Markdown     1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Bash         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-LaTeX        37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Text         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-CSV          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-TeX          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Markdown     2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+LaTeX        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Bash         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Text         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+CSV          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
