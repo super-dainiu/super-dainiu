@@ -2,7 +2,7 @@
 
 <h1 align="center">Yanjun Shao</h1>
 
-- 🐒 I’m currently working on **[AIDO](https://github.com/genbio-ai/AIDO)**.
+- 🐒 I’m currently working on **[Nothing]**.
 
 - 🦧 I’m currently learning about **AI Trading**.
 
