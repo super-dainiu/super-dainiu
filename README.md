@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-Total Time: 29 hrs 27 mins
+Total Time: 30 hrs
 
-Python       4 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Markdown     47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Git Config   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-SSH Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-TeX          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python       4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+TeX          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Git Config   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Bash         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
