@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 December 2025 - To: 17 December 2025
+From: 11 December 2025 - To: 18 December 2025
 
-Total Time: 38 hrs
+Total Time: 34 hrs 50 mins
 
-Python             5 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-HTML               55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash               44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-CSV                31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Text               13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Git Config         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python             4 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+HTML               55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Bash               29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+CSV                28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Text               12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
