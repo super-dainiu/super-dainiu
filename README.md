@@ -2,7 +2,7 @@
 
 <h1 align="center">Yanjun Shao</h1>
 
-- 🐒 I’m currently working on **Nothing**.
+- 🐒 I’m currently working on **sleeping**.
 
 - 🦧 I’m currently learning about **AI Trading**.
 
