@@ -29,15 +29,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
-Total Time: 34 hrs 11 mins
+Total Time: 34 hrs 49 mins
 
-Python        59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-SSH Config    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Markdown      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Ignore List   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+SSH Config         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Ignore List        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
