@@ -29,12 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-Total Time: 22 hrs 39 mins
+Total Time: 32 hrs 8 mins
 
-SSH Config   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Python       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Jupyter Notebook   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+SSH Config         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
