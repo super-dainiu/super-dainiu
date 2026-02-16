@@ -2,9 +2,9 @@
 
 <h1 align="center">Yanjun Shao</h1>
 
-- 🐒 I’m currently working on **sleeping**.
+- 🐒 I’m currently working on **vibe coding biology**.
 
-- 🦧 I’m currently learning about **AI Trading**.
+- 🦧 I’m currently learning about **trading**.
 
 - 🦍 Pronouns: He/His.
 
