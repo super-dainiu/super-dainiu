@@ -4,7 +4,7 @@
 
 - 🐒 I’m currently working on **vibe coding biology**.
 
-- 🦧 I’m currently learning about **trading**.
+- 🦧 I’m currently learning about **vibe trading**.
 
 - 🦍 Pronouns: He/His.
 
