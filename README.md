@@ -29,16 +29,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 39 hrs 43 mins
+Total Time: 38 hrs 39 mins
 
-Python             7 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-Bash               1 hr 56 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-SSH Config         49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JSON               13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Markdown           6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-SQL                4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python             9 hrs 33 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+Bash               2 hrs 11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+SSH Config         35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+JSON               28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown           21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+SQL                5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Git Config         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
