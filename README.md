@@ -2,7 +2,7 @@
 
 <h1 align="center">Yanjun Shao</h1>
 
-- 🐒 I’m currently working on **vibe coding biology**.
+- 🐒 I’m currently working on **vibe coding**.
 
 - 🦧 I’m currently learning about **vibe trading**.
 
