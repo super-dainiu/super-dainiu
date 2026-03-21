@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Total Time: 51 hrs 54 mins
+Total Time: 55 hrs 38 mins
 
-Bash         1 hr 53 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-TeX          1 hr 45 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Python       1 hr 26 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-BibTeX       30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Markdown     26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-SSH Config   16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-YAML         12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TeX          3 hrs 47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Bash         1 hr 16 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Python       1 hr 3 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+BibTeX       42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown     23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+SSH Config   16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
