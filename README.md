@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Total Time: 38 hrs 9 mins
+Total Time: 37 hrs 1 min
 
-TeX          3 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Shell        2 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Python       38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-SSH Config   23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Markdown     10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Bash         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-SSH Key      5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TeX          4 hrs 41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Markdown     12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+SSH Config   10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+SSH Key      5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Makefile     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
