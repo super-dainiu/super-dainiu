@@ -29,17 +29,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-Total Time: 24 hrs 29 mins
+Total Time: 18 hrs 20 mins
 
-Markdown     7 hrs 59 mins         ████████░░░░░░░░░░░░░░░░░   32.64 %
-JSON         2 hrs 27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Python       48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Git Config   39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JavaScript   21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-BibTeX       7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-TeX          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown     5 hrs 48 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
+JSON         2 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Python       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JavaScript   21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Git Config   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+BibTeX       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TeX          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
