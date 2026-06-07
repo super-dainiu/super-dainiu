@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 9 hrs 37 mins
+Total Time: 14 hrs 19 mins
 
-TeX          1 hr 3 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-YAML         59 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-SSH Config   20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Bash         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Markdown     1 hr 1 min            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+TeX          49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+SSH Config   33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Bash         22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
