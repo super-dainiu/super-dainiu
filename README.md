@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there!</h1>
 
 - 🐒 I’m currently working on **vibe coding**.
 
