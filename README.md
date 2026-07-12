@@ -1,16 +1,14 @@
 
 
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi there! 👋</h1>
 
-- 🐒 I’m currently working on **vibe coding**.
+- 🎓 I’m a Ph.D. student in **Statistics & Data Science** at **Yale University**.
 
-- 🦧 I’m currently learning about **vibe trading**.
+- 📊 My interests are in **statistical theory**, **numerical methods**, and **data analysis**.
 
-- 🦍 Pronouns: He/His.
+- 🧑‍🏫 Long term, I hope to teach statistics.
 
-- 👹 I support Manchester United.
-
-- 🐶 I study at Yale University.
+- 🔴 I support Manchester United.
 
 ---
 
