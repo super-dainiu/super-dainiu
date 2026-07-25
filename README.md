@@ -16,13 +16,33 @@
 
 ---
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Github Stats</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" alt="" /> My Github Stats</h2>
 
-<p align="center"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=super-dainiu&show_icons=true&count_private=true&theme=tokyonight&hide=issues&line_height=30" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=super-dainiu&theme=tokyonight" width="400px"></p>
+<!--
+  The stats and language cards used to come from github-readme-stats.vercel.app.
+  That public instance now answers 503 DEPLOYMENT_PAUSED — it periodically exceeds
+  Vercel's free-tier limits — so the cards below are served by
+  github-profile-summary-cards instead. To go back to the original cards, deploy
+  your own github-readme-stats instance and point these at it.
 
-<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-dainiu&layout=compact&theme=tokyonight&hide=html,tex,jupyter%20notebook"><img align="center" width="400px" src="https://github.com/super-dainiu/super-dainiu/blob/output/github-contribution-grid-snake.svg"></p>
+  `exclude=` is this service's equivalent of github-readme-stats' `hide=`, and
+  keeps HTML, TeX, and Jupyter Notebook off the language cards. Keep the two
+  lists below in step, or the cards will disagree with each other.
+-->
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> My Waka Stats</h2>
+<p align="center"><img align="center" width="400px" alt="GitHub stats: stars, commits, PRs, issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=super-dainiu&theme=tokyonight"><img align="center" width="400px" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=super-dainiu&theme=tokyonight"></p>
+
+<p align="center"><img align="center" width="400px" alt="Repositories per language, excluding HTML, TeX, and Jupyter Notebook" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=super-dainiu&theme=tokyonight&exclude=HTML,TeX,Jupyter%20Notebook"><img align="center" width="400px" alt="Most committed language, excluding HTML, TeX, and Jupyter Notebook" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=super-dainiu&theme=tokyonight&exclude=HTML,TeX,Jupyter%20Notebook"></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/super-dainiu/super-dainiu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/super-dainiu/super-dainiu/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/super-dainiu/super-dainiu/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" alt="" /> My Waka Stats</h2>
 
 <!--START_SECTION:waka-->
 
