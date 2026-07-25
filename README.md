@@ -19,18 +19,20 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" alt="" /> My Github Stats</h2>
 
 <!--
-  The stats and top-langs cards used to come from github-readme-stats.vercel.app.
+  The stats and language cards used to come from github-readme-stats.vercel.app.
   That public instance now answers 503 DEPLOYMENT_PAUSED — it periodically exceeds
   Vercel's free-tier limits — so the cards below are served by
   github-profile-summary-cards instead. To go back to the original cards, deploy
-  your own github-readme-stats instance and point these at it; note that the
-  `hide=` filter that dropped HTML/TeX/Jupyter from the language card has no
-  equivalent here.
+  your own github-readme-stats instance and point these at it.
+
+  `exclude=` is this service's equivalent of github-readme-stats' `hide=`, and
+  keeps HTML, TeX, and Jupyter Notebook off the language cards. Keep the two
+  lists below in step, or the cards will disagree with each other.
 -->
 
 <p align="center"><img align="center" width="400px" alt="GitHub stats: stars, commits, PRs, issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=super-dainiu&theme=tokyonight"><img align="center" width="400px" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=super-dainiu&theme=tokyonight"></p>
 
-<p align="center"><img align="center" width="400px" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=super-dainiu&theme=tokyonight"><img align="center" width="400px" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=super-dainiu&theme=tokyonight"></p>
+<p align="center"><img align="center" width="400px" alt="Repositories per language, excluding HTML, TeX, and Jupyter Notebook" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=super-dainiu&theme=tokyonight&exclude=HTML,TeX,Jupyter%20Notebook"><img align="center" width="400px" alt="Most committed language, excluding HTML, TeX, and Jupyter Notebook" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=super-dainiu&theme=tokyonight&exclude=HTML,TeX,Jupyter%20Notebook"></p>
 
 <p align="center">
   <picture>
