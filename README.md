@@ -54,12 +54,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 20 hrs 10 mins
+Total Time: 24 hrs 10 mins
 
-HTML       2 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Markdown   1 hr 39 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Markdown   4 hrs 11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+HTML       2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
