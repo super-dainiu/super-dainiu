@@ -54,12 +54,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Total Time: 12 hrs 45 mins
+Total Time: 13 hrs 28 mins
 
-Markdown   1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-TeX        28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown   1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
 ```
 
 <!--END_SECTION:waka-->
