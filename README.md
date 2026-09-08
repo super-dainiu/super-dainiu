@@ -54,14 +54,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 24 hrs 24 mins
+Total Time: 21 hrs 46 mins
 
-Markdown         6 hrs 5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Python           54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Image (svg)      26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Graphviz (DOT)   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Markdown         5 hrs 23 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+Python           54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Image (svg)      26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Graphviz (DOT)   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
