@@ -54,17 +54,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
-Total Time: 38 hrs 29 mins
+Total Time: 54 hrs 26 mins
 
-Python       13 hrs 57 mins        █████████░░░░░░░░░░░░░░░░   36.27 %
-Markdown     7 hrs 1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-JSON         1 hr 57 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Text         55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-YAML         33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Shell        7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-TeX          5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       24 hrs 8 mins         ███████████░░░░░░░░░░░░░░   44.35 %
+Markdown     8 hrs 44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+JSON         4 hrs 42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Bash         1 hr 16 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Text         56 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML         48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TeX          23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
