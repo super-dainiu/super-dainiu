@@ -1,12 +1,17 @@
 """Render the last seven daily WakaTime summaries into the profile README."""
 import base64
 from collections import defaultdict
-from datetime import date
+from concurrent.futures import ThreadPoolExecutor
+from datetime import date, datetime, timedelta
+import http.client
 import json
 import os
 from pathlib import Path
 import re
+import time
+import urllib.error
 import urllib.request
+from zoneinfo import ZoneInfo
 
 
 def duration(seconds):
@@ -46,10 +51,37 @@ def render(payload):
 
 def main():
     auth = base64.b64encode(os.environ['WAKATIME_API_KEY'].encode()).decode()
-    request = urllib.request.Request('https://api.wakatime.com/api/v1/users/current/summaries?range=last_7_days',
-                                     headers={'Authorization': 'Basic ' + auth})
-    with urllib.request.urlopen(request, timeout=60) as response:
-        payload = json.load(response)
+
+    def fetch(path):
+        for attempt in range(4):
+            # Both official hosts serve the same authenticated API.
+            base = 'https://api.wakatime.com/api/v1' if attempt % 2 == 0 else 'https://wakatime.com/api/v1'
+            request = urllib.request.Request(base + path, headers={'Authorization': 'Basic ' + auth})
+            try:
+                with urllib.request.urlopen(request, timeout=60) as response:
+                    return json.load(response)
+            except urllib.error.HTTPError as error:
+                if error.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                    raise
+            except (urllib.error.URLError, http.client.RemoteDisconnected, TimeoutError):
+                if attempt == 3:
+                    raise
+            time.sleep(2 ** attempt)
+
+    user = fetch('/users/current')['data']
+    today = datetime.now(ZoneInfo(user.get('timezone') or 'America/New_York')).date()
+    dates = [(today - timedelta(days=offset)).isoformat() for offset in range(6, -1, -1)]
+
+    def daily(day):
+        response = fetch(f'/users/current/summaries?start={day}&end={day}')
+        if len(response.get('data', [])) != 1:
+            raise ValueError('Expected one summary per date')
+        return response['data'][0]
+
+    # Fetch days separately: a large historical backfill can exceed the API's
+    # response deadline when all seven days are requested at once.
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        payload = {'data': list(pool.map(daily, dates))}
     block = render(payload)
     path = Path('README.md')
     original = path.read_text()
