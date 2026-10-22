@@ -4,9 +4,7 @@
 
 - 🎓 I’m a Ph.D. student in **Statistics & Data Science** at **Yale University**.
 
-- 📊 My interests are in **statistical theory**, **numerical methods**, and **data analysis**.
-
-- 🧑‍🏫 Long term, I hope to teach statistics.
+- 📊 My interests are in **statistical theory**, **numerical methods**, and **low latency**.
 
 - 🔴 I support Manchester United.
 
