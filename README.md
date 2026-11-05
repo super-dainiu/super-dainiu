@@ -35,6 +35,9 @@
   Jupyter Notebook at 80%. Encoded, srcset sees one URL and the server still
   reads three languages.
 
+  exclude_repo drops collaborator/lab repos and Python-only side projects
+  so the bar reflects my own systems work. Its commas are %2C for the same reason.
+
   Row one is pinned by HEIGHT, not width. The stats card is 450x170 and the
   streak card is 495x195, so a shared width renders them at different heights;
   a shared height lets each keep its aspect ratio and still line up. At 160px
@@ -43,7 +46,7 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-dusky-64.vercel.app/api?username=super-dainiu&theme=tokyonight&hide=issues&include_all_commits=true"><img height="160" alt="GitHub stats: stars, commits, PRs, repositories contributed to" src="https://github-readme-stats-five-dusky-64.vercel.app/api?username=super-dainiu&theme=default&hide=issues&include_all_commits=true"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=super-dainiu&theme=tokyonight"><img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=super-dainiu&theme=default"></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-dusky-64.vercel.app/api/top-langs/?username=super-dainiu&theme=tokyonight&layout=compact&card_width=830&hide=html%2Ctex%2Cjupyter%20notebook%2Ctypescript%2Cjavascript&langs_count=4"><img alt="Most used languages, excluding HTML, TeX, Jupyter Notebook, TypeScript, and JavaScript" src="https://github-readme-stats-five-dusky-64.vercel.app/api/top-langs/?username=super-dainiu&theme=default&layout=compact&card_width=830&hide=html%2Ctex%2Cjupyter%20notebook%2Ctypescript%2Cjavascript&langs_count=4"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-dusky-64.vercel.app/api/top-langs/?username=super-dainiu&theme=tokyonight&layout=compact&card_width=830&hide=html%2Ctex%2Cjupyter%20notebook%2Ctypescript%2Cjavascript&langs_count=4&exclude_repo=AI4AI%2CAbRank-WALLE-Affinity%2CBC-Design%2CCAgent%2CCellForge%2CCellLogic%2CChemAgent%2CDecima_patient%2CML-Bench%2CMedAgents-X%2CMedicalAgentsBench%2CTofu%2CWALLE-Affinity%2CWALLE-affinity-data%2Cautograd-dtr%2Cbioagent%2CscAgents%2Ctorchtitan%2Cjoint-dna-sc%2Cnews-agent-analysis%2Cnews-agent-bench%2Cyolov3%2Cminuet-reproducibility%2Cnews-fetch"><img alt="Most used languages, excluding HTML, TeX, Jupyter Notebook, TypeScript, and JavaScript" src="https://github-readme-stats-five-dusky-64.vercel.app/api/top-langs/?username=super-dainiu&theme=default&layout=compact&card_width=830&hide=html%2Ctex%2Cjupyter%20notebook%2Ctypescript%2Cjavascript&langs_count=4&exclude_repo=AI4AI%2CAbRank-WALLE-Affinity%2CBC-Design%2CCAgent%2CCellForge%2CCellLogic%2CChemAgent%2CDecima_patient%2CML-Bench%2CMedAgents-X%2CMedicalAgentsBench%2CTofu%2CWALLE-Affinity%2CWALLE-affinity-data%2Cautograd-dtr%2Cbioagent%2CscAgents%2Ctorchtitan%2Cjoint-dna-sc%2Cnews-agent-analysis%2Cnews-agent-bench%2Cyolov3%2Cminuet-reproducibility%2Cnews-fetch"></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/super-dainiu/super-dainiu/output/github-contribution-grid-snake-dark.svg"><img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/super-dainiu/super-dainiu/output/github-contribution-grid-snake.svg"></picture></p>
 
